@@ -1,0 +1,7 @@
+# Archivos multimedia y carpetas pesadas
+recursos/*.mp4
+recursos/*.mp3
+*.mp4
+*.mp3
+__pycache__/
+.venv/
