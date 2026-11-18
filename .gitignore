@@ -1,7 +1,10 @@
-# Archivos multimedia y carpetas pesadas
-recursos/*.mp4
-recursos/*.mp3
-*.mp4
+# Local secrets written by `elevenlabs onboard`
+node_modules/
+output/
+.env
+.env.local
 *.mp3
+*.wav
+*.mp4
 __pycache__/
-.venv/
+*.pyc
